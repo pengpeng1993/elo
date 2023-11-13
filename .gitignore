@@ -1,5 +1,3 @@
-./data
-./code/log
 .idea
 *.log
 *.csv
